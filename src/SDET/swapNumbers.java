@@ -1,6 +1,7 @@
 package SDET;
 
 // Java program to swap two numbers without using third variable.
+
 public class swapNumbers {
 
 	public static void main(String[] args) {

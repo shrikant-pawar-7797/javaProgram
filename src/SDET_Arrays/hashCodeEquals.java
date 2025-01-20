@@ -5,8 +5,9 @@ package SDET_Arrays;
 public class hashCodeEquals {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		
+		
 	}
 
 }
