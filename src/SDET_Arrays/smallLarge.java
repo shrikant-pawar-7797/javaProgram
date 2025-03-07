@@ -27,6 +27,7 @@ public class smallLarge {
 		}
 
 		System.out.println(min);
+		
 		System.out.println(max);
 
 	}

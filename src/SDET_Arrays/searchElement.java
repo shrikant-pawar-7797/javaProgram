@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 8.) Search element in an Array
 
-public class searchElemnt {
+public class searchElement {
 
 	public static void main(String[] args) {
 

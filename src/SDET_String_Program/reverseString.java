@@ -9,12 +9,17 @@ public class reverseString {
 		String name="Shrikant";
 		char ch;
 		String nstr="";
+		int i=0;
 		
-		for(int i=0; i<name.length();i++) {
+		//for(int i=0; i<name.length();i++)
+			
+			while(i<name.length())
+		{
 			
 			ch= name.charAt(i);
+			i++;
 			
-			nstr=ch+nstr;
+			nstr = ch + nstr;
 			
 		}
 		
